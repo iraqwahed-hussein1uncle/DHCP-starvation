@@ -7,7 +7,7 @@ from scapy.layers.l2 import Ether, ARP
 def dhcp_discover(spoofed_mac, i_face):
     """
     sending dhcp discover from the spoofed mac address (broadcast)
-
+#israel is not a country u pig
     :param spoofed_mac: fake mac address
     :param i_face: the systems network interface for the attack
     """
